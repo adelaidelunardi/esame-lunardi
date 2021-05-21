@@ -1,0 +1,65 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La Commedia secondo l'antica vulgata</title>
+				<author xml:id="DA">Dante Alighieri</author>
+				<editor role="editor" xml:id="GP">Giorgio Petrocchi</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Casa Editrice Le Lettere</publisher>
+				<distribution>Wikisource.org</distribution>
+				<pubPlace>Firenze</pubPlace>
+				<address>
+					<name type="city">Firenze</name>
+					<name type="country">Italia</name>	
+				</address>
+				<idno type="ISBN-10">8871661486</idno>
+				<idno type="ISBN-13">978-8871661483</idno>
+				<availability status="free">
+					<licence>Creative Commons<ref target="https://creativecommons.org/licenses/?lang=it"></ref></licence>
+				</availability>
+				<date when="1-01-1994">1 gennaio 1994</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><title>La Commedia secondo l'antica vulgata</title></bibl> by
+				<author>Dante Alighieri</author>
+				<pubPlace>Firenze</pubPlace>
+				<publisher>Casa Editrice Le Lettere</publisher>
+				<date when="1-01-1994">1 gennaio 1994</date>
+				<extend>636 p.</extend>
+				<editor role="editor" xml:id="GP">Giorgio Petrocchi</editor>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="poem">
+				<head>Canto VII Inferno</head>
+					<lg type="terzina" n="1">
+						<l n="1">"Pape Satàn, pape Satàn <rhyme>aleppe</rhyme>!",</l>
+						<l n="2">cominciò Pluto con la voce <rhyme>chioccia</rhyme>;</l>
+						<l n="3">e quel savio gentil, che tutto <rhyme>seppe</rhyme>,3</l>
+					</lg>
+					<lg type="terzina" n="2">
+						<l n="4">disse per confortarmi: "Non ti <rhyme>noccia</rhyme></l>
+						<l n="5">la tua paura; ché, poder ch’elli <rhyme>abbia</rhyme></l>
+						<l n="6">non ci torrà lo scender questa <rhyme>roccia</rhyme>".</l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
