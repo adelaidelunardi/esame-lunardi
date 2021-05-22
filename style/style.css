@@ -145,16 +145,8 @@ padding-bottom: 50px;
 	align-content: center;
 	padding: 5%;
 }
-#blake{
+#blake, #dore, #botticelli{
 	background-color: lightblue;
-	padding-top: 5%;
-}
-#dore{
-	background-color: lightblue;
-	padding-top: 5%;
-}
-#botticelli{
-	background-color: lightblue; /*DA UNIRE*/
 	padding-top: 5%;
 }
 #bottoni{
