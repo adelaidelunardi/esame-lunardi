@@ -112,16 +112,6 @@ main {
 #spazio{
 padding-bottom: 50px;	
 }
-footer {
-    background-color: lightblue;
-    padding: 20px;
-    text-align: center;
-    color: white;
-    height: 100px;
-    font-size: 15px;
-    clear: both;
-    display: block;
-}
 .gallery {
   margin: 5px;
   border: 1px solid #ccc;
@@ -196,6 +186,16 @@ table {
 }
 #yt h5{
 	padding-bottom: 25px;
+}
+footer {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    height: 100px;
+    font-size: 15px;
+    clear: both;
+    display: block;
 }
 footer a{
 	color: white;
