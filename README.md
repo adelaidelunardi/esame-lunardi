@@ -30,7 +30,7 @@ Le immagini di William Blake provengono dalla raccolta della Tate Gallery di Lon
 <br>Gli standard necessari sono quindi quelli utilizzati da musei e biblioteche; nello specifico per le immagini conservate nei musei si potrebbe utilizzare lo standard ICOM (International Council Of Museums). 
 <br>Per le immagini conservate nella biblioteca Vaticana potrebbe essere utilizzato lo standard ICCU (Istituto Centrale per il Catalogo Unico), utilizzando come modello concettuale FRAD (https://www.iccu.sbn.it/export/sites/iccu/documenti/ImpaginatoFRADper_internet.pdf)</p>
 
-
+<p>LINK PER IL SITO <a href="https://adelaidelunardi.github.io/esame-lunardi/" target="_blank"</p>
 
 
 
